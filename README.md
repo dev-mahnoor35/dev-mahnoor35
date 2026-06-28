@@ -3,7 +3,8 @@
 
 ```
 <p align="center">
-  <img src="AAPKA_IMAGE_LINK_YAHAN" alt="Banner" width="100%"/>
+  <img src="![Uploading ChatGPT Image Jun 28, 2026, 11_00_41 AM.png…]()
+" alt="Banner" width="100%"/>
 </p>
 ```
 
