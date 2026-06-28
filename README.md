@@ -1,11 +1,10 @@
 <!-- Header Banner -->
-<div align="center">
+<div align="center"<p align="center">
+  <img src="![Uploading ChatGPT Image Jun 28, 2026, 11_00_41 AM.png…]()
+" alt="Banner" width="100%"/>>
 
 ```
-<p align="center">
-  <img src="![Uploading ChatGPT Image Jun 28, 2026, 11_00_41 AM.png…]()
-" alt="Banner" width="100%"/>
-</p>
+
 ```
 
 # 👩‍💻 Hey, I'm Dev-Mahnoor! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
