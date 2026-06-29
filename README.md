@@ -1,7 +1,7 @@
 <!-- Header Banner -->
-<div align="center"<p align="center">
-  <img src="https://ibb.co/84Mq5vdy()
-" alt="Banner" width="100%"/>>
+<p align="center">
+  <img src="https://ibb.co/84Mq5vdy" alt="Mahnoor Banner" width="100%"/>
+</p>
 
 ```
 
