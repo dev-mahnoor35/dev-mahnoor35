@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <div align="center"<p align="center">
-  <img src="![Uploading ChatGPT Image Jun 28, 2026, 11_00_41 AM.png…]()
+  <img src="https://ibb.co/84Mq5vdy()
 " alt="Banner" width="100%"/>>
 
 ```
