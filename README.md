@@ -2,6 +2,7 @@
 <p align="center">
   <img src="https://i.ibb.co/mCZT419K/Chat-GPT-Image-Jun-28-2026-11-34-16-AM.png" alt="Mahnoor Banner" width="100%"/>
 </p>
+<div align="center">
 
 
 # 👩‍💻 Hey, I'm Mahnoor! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
