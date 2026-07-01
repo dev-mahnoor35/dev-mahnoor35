@@ -78,7 +78,7 @@ I am a passionate **Web Developer & AI Learner** focused on building beautiful, 
 <img src="https://github-readme-stats.vercel.app/api?username=dev-mahnoor35&show_icons=true&theme=tokyonight&hide_border=true&title_color=7C3AED&icon_color=7C3AED" width="48%" />
 
 <img src="https://streak-stats.demolab.com?user=dev-mahnoor35&theme=tokyonight&hide_border=true&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED" width="48%" />
-mahnoor35&theme=tokyonight&hide_border=true&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED" width="48%" />
+
 
 </div>
 
