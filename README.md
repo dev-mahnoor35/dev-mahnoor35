@@ -2,13 +2,8 @@
 <p align="center">
   <img src="https://ibb.co/84Mq5vdy" alt="Mahnoor Banner" width="100%"/>
 </p>
-
-```
-
-```
-
-# 👩‍💻 Hey, I'm Dev-Mahnoor! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-
+<div align="center">
+👩‍💻 Hey, I'm Mahnoor! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 ### 🌐 Web Developer & AI Learner | Building the Future, One Line at a Time 🚀
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Web+Developer+%26+AI+Learner+%F0%9F%A4%96;HTML+%7C+CSS+%7C+JavaScript+%F0%9F%92%BB;Python+%26+AI+Explorer+%F0%9F%90%8D;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1)](https://git.io/typing-svg)
